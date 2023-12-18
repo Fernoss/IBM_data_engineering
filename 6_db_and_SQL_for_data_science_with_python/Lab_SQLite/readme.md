@@ -1,4 +1,4 @@
-#### Create and Access SQLite Database using Python🐍
+### Create and Access SQLite Database using Python🐍
 
 ### Objectives
 After completing this lab you will be able to:
