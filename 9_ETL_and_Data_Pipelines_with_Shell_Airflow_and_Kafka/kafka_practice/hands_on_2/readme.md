@@ -11,7 +11,7 @@ For the client side, Kafka provides different types of clients such as: - Kafka 
 kafka-python is a Python client for the Apache Kafka distributed stream processing system, which aims
 to provide similar functionalities as the main Kafka Java client.
 
-With ###kafka-python, you can easily interact with your Kafka server such as managing topics, publish, and consume
+With kafka-python, you can easily interact with your Kafka server such as managing topics, publish, and consume
 messages in Python programming language.
 
 Note: Code snippets provided in this article are just for your reference but not the complete working code.
