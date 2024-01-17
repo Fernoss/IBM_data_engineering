@@ -8,10 +8,10 @@ Kafka uses a TCP based network communication protocol to exchange data between c
 
 For the client side, Kafka provides different types of clients such as: - Kafka CLI, which is a collection of shell scripts to communicate with a Kafka server - Many high-level programming APIs such as Python, Java, and Scala - REST APIs - Specific 3rd party clients made by the Kafka community
 
-###kafka-python### is a Python client for the Apache Kafka distributed stream processing system, which aims
+###kafka-python is a Python client for the Apache Kafka distributed stream processing system, which aims
 to provide similar functionalities as the main Kafka Java client.
 
-With ###kafka-python###, you can easily interact with your Kafka server such as managing topics, publish, and consume
+With ###kafka-python, you can easily interact with your Kafka server such as managing topics, publish, and consume
 messages in Python programming language.
 
 Note: Code snippets provided in this article are just for your reference but not the complete working code.
@@ -43,13 +43,13 @@ method
 
 Now we have a new bankbranch topic created, we can start produce messages to the topic.
 
-For ###kafka-python###, we will use ###KafkaProducer### class to produce messages.
+For kafka-python, we will use KafkaProducer class to produce messages.
 Since many real-world message values are in the format of JSON, we will show you how to publish JSON messages as an example.
 
 Since Kafka produces and consumes messages in raw bytes, we need to encode our JSON messages and serialize them
 into bytes.
 
-For the ###value_serializer### argument, we define a lambda function to take a Python dict/list object and
+For the value_serializer argument, we define a lambda function to take a Python dict/list object and
 serialize it into bytes.
 
 Then, with the KafkaProducer created, we can use it to produce two ATM transaction messages in JSON format.
@@ -59,7 +59,7 @@ Then, with the KafkaProducer created, we can use it to produce two ATM transacti
 In the previous step, we published two JSON messages. Now we can use the KafkaConsumer class to
 consume them.
 
-We just need to define and create a ###KafkaConsumer### subscribing to the topic bankbranch.
+We just need to define and create a KafkaConsumer subscribing to the topic bankbranch.
 
 Once the consumer is created, it will receive all available messages from the topic bankbranch. Then we
 can iterate and print them
