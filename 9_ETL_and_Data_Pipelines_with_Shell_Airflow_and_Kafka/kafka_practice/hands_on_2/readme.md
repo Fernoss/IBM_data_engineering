@@ -8,7 +8,7 @@ Kafka uses a TCP based network communication protocol to exchange data between c
 
 For the client side, Kafka provides different types of clients such as: - Kafka CLI, which is a collection of shell scripts to communicate with a Kafka server - Many high-level programming APIs such as Python, Java, and Scala - REST APIs - Specific 3rd party clients made by the Kafka community
 
-###kafka-python is a Python client for the Apache Kafka distributed stream processing system, which aims
+kafka-python is a Python client for the Apache Kafka distributed stream processing system, which aims
 to provide similar functionalities as the main Kafka Java client.
 
 With ###kafka-python, you can easily interact with your Kafka server such as managing topics, publish, and consume
