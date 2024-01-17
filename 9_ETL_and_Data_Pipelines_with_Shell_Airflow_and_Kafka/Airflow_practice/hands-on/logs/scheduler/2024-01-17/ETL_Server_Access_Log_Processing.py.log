@@ -1,0 +1,200 @@
+[2024-01-17 09:35:08,472] {processor.py:153} INFO - Started process (PID=19274) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:08,473] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:08,474] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,473] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:08,481] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:08,660] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,660] {manager.py:508} INFO - Created Permission View: can edit on DAG:ETL_Server_Access_Log_Processing
+[2024-01-17 09:35:08,676] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,675] {manager.py:508} INFO - Created Permission View: can read on DAG:ETL_Server_Access_Log_Processing
+[2024-01-17 09:35:08,691] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,691] {manager.py:508} INFO - Created Permission View: can delete on DAG:ETL_Server_Access_Log_Processing
+[2024-01-17 09:35:08,692] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:08,706] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,705] {dag.py:2439} INFO - Creating ORM DAG for ETL_Server_Access_Log_Processing
+[2024-01-17 09:35:08,734] {logging_mixin.py:115} INFO - [2024-01-17 09:35:08,734] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to None, run_after=None
+[2024-01-17 09:35:08,772] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.310 seconds
+[2024-01-17 09:35:11,262] {processor.py:153} INFO - Started process (PID=19290) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:11,262] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:11,263] {logging_mixin.py:115} INFO - [2024-01-17 09:35:11,263] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:11,271] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:11,323] {logging_mixin.py:115} INFO - [2024-01-17 09:35:11,323] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:11,401] {logging_mixin.py:115} INFO - [2024-01-17 09:35:11,401] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to None, run_after=None
+[2024-01-17 09:35:11,434] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.177 seconds
+[2024-01-17 09:35:27,782] {processor.py:153} INFO - Started process (PID=19317) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:27,783] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:27,784] {logging_mixin.py:115} INFO - [2024-01-17 09:35:27,784] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:27,792] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:27,817] {logging_mixin.py:115} INFO - [2024-01-17 09:35:27,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:27,849] {logging_mixin.py:115} INFO - [2024-01-17 09:35:27,849] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to None, run_after=None
+[2024-01-17 09:35:27,867] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.091 seconds
+[2024-01-17 09:35:37,970] {processor.py:153} INFO - Started process (PID=19329) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:37,971] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:37,972] {logging_mixin.py:115} INFO - [2024-01-17 09:35:37,972] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:37,983] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:38,009] {logging_mixin.py:115} INFO - [2024-01-17 09:35:38,008] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:38,050] {logging_mixin.py:115} INFO - [2024-01-17 09:35:38,050] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:38,072] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.107 seconds
+[2024-01-17 09:35:40,312] {processor.py:153} INFO - Started process (PID=19345) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:40,312] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:40,313] {logging_mixin.py:115} INFO - [2024-01-17 09:35:40,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:40,322] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:40,421] {logging_mixin.py:115} INFO - [2024-01-17 09:35:40,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:40,449] {logging_mixin.py:115} INFO - [2024-01-17 09:35:40,449] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:40,465] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.159 seconds
+[2024-01-17 09:35:44,479] {processor.py:153} INFO - Started process (PID=19356) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:44,479] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:44,480] {logging_mixin.py:115} INFO - [2024-01-17 09:35:44,480] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:44,489] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:44,512] {logging_mixin.py:115} INFO - [2024-01-17 09:35:44,512] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:44,544] {logging_mixin.py:115} INFO - [2024-01-17 09:35:44,544] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:44,560] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.087 seconds
+[2024-01-17 09:35:54,093] {processor.py:153} INFO - Started process (PID=19366) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:54,094] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:54,094] {logging_mixin.py:115} INFO - [2024-01-17 09:35:54,094] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:54,103] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:54,129] {logging_mixin.py:115} INFO - [2024-01-17 09:35:54,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:54,172] {logging_mixin.py:115} INFO - [2024-01-17 09:35:54,172] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:54,190] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.103 seconds
+[2024-01-17 09:35:56,280] {processor.py:153} INFO - Started process (PID=19378) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:56,281] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:56,282] {logging_mixin.py:115} INFO - [2024-01-17 09:35:56,282] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:56,290] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:56,315] {logging_mixin.py:115} INFO - [2024-01-17 09:35:56,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:56,347] {logging_mixin.py:115} INFO - [2024-01-17 09:35:56,347] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:56,364] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.090 seconds
+[2024-01-17 09:35:58,367] {processor.py:153} INFO - Started process (PID=19379) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:58,368] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:35:58,368] {logging_mixin.py:115} INFO - [2024-01-17 09:35:58,368] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:58,377] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:35:58,402] {logging_mixin.py:115} INFO - [2024-01-17 09:35:58,402] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:35:58,436] {logging_mixin.py:115} INFO - [2024-01-17 09:35:58,436] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:35:58,457] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.095 seconds
+[2024-01-17 09:36:02,978] {processor.py:153} INFO - Started process (PID=19386) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:02,979] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:02,980] {logging_mixin.py:115} INFO - [2024-01-17 09:36:02,980] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:02,988] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:03,012] {logging_mixin.py:115} INFO - [2024-01-17 09:36:03,012] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:03,045] {logging_mixin.py:115} INFO - [2024-01-17 09:36:03,045] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:03,064] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.091 seconds
+[2024-01-17 09:36:07,214] {processor.py:153} INFO - Started process (PID=19389) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:07,215] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:07,215] {logging_mixin.py:115} INFO - [2024-01-17 09:36:07,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:07,224] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:07,246] {logging_mixin.py:115} INFO - [2024-01-17 09:36:07,246] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:07,277] {logging_mixin.py:115} INFO - [2024-01-17 09:36:07,277] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:07,293] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.084 seconds
+[2024-01-17 09:36:08,534] {processor.py:153} INFO - Started process (PID=19402) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:08,534] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:08,535] {logging_mixin.py:115} INFO - [2024-01-17 09:36:08,535] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:08,557] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:08,600] {logging_mixin.py:115} INFO - [2024-01-17 09:36:08,600] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:08,647] {logging_mixin.py:115} INFO - [2024-01-17 09:36:08,647] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:08,666] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.142 seconds
+[2024-01-17 09:36:18,558] {processor.py:153} INFO - Started process (PID=19416) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:18,559] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:18,560] {logging_mixin.py:115} INFO - [2024-01-17 09:36:18,560] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:18,569] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:18,667] {logging_mixin.py:115} INFO - [2024-01-17 09:36:18,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:18,694] {logging_mixin.py:115} INFO - [2024-01-17 09:36:18,694] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:18,712] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.159 seconds
+[2024-01-17 09:36:22,995] {processor.py:153} INFO - Started process (PID=19431) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:22,996] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:22,997] {logging_mixin.py:115} INFO - [2024-01-17 09:36:22,996] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:23,005] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:23,041] {logging_mixin.py:115} INFO - [2024-01-17 09:36:23,041] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:23,096] {logging_mixin.py:115} INFO - [2024-01-17 09:36:23,096] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:23,124] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.134 seconds
+[2024-01-17 09:36:32,121] {processor.py:153} INFO - Started process (PID=19453) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:32,121] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:32,122] {logging_mixin.py:115} INFO - [2024-01-17 09:36:32,122] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:32,131] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:32,157] {logging_mixin.py:115} INFO - [2024-01-17 09:36:32,157] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:32,201] {logging_mixin.py:115} INFO - [2024-01-17 09:36:32,201] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:32,252] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.137 seconds
+[2024-01-17 09:36:34,236] {processor.py:153} INFO - Started process (PID=19454) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:34,237] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:34,238] {logging_mixin.py:115} INFO - [2024-01-17 09:36:34,238] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:34,247] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:34,272] {logging_mixin.py:115} INFO - [2024-01-17 09:36:34,271] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:34,307] {logging_mixin.py:115} INFO - [2024-01-17 09:36:34,307] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:34,323] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.092 seconds
+[2024-01-17 09:36:43,598] {processor.py:153} INFO - Started process (PID=19482) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:43,599] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:43,599] {logging_mixin.py:115} INFO - [2024-01-17 09:36:43,599] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:43,609] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:43,634] {logging_mixin.py:115} INFO - [2024-01-17 09:36:43,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:43,668] {logging_mixin.py:115} INFO - [2024-01-17 09:36:43,668] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:43,684] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.092 seconds
+[2024-01-17 09:36:48,618] {processor.py:153} INFO - Started process (PID=19483) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:48,618] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:48,619] {logging_mixin.py:115} INFO - [2024-01-17 09:36:48,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:48,628] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:48,715] {logging_mixin.py:115} INFO - [2024-01-17 09:36:48,715] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:48,741] {logging_mixin.py:115} INFO - [2024-01-17 09:36:48,741] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:48,760] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.148 seconds
+[2024-01-17 09:36:49,721] {processor.py:153} INFO - Started process (PID=19484) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:49,722] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:49,723] {logging_mixin.py:115} INFO - [2024-01-17 09:36:49,722] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:49,732] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:49,755] {logging_mixin.py:115} INFO - [2024-01-17 09:36:49,755] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:49,790] {logging_mixin.py:115} INFO - [2024-01-17 09:36:49,789] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:49,812] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.096 seconds
+[2024-01-17 09:36:52,185] {processor.py:153} INFO - Started process (PID=19490) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:52,186] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:36:52,186] {logging_mixin.py:115} INFO - [2024-01-17 09:36:52,186] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:52,196] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:36:52,221] {logging_mixin.py:115} INFO - [2024-01-17 09:36:52,221] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:36:52,260] {logging_mixin.py:115} INFO - [2024-01-17 09:36:52,259] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:36:52,284] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.105 seconds
+[2024-01-17 09:37:05,569] {processor.py:153} INFO - Started process (PID=19514) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:05,570] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:37:05,571] {logging_mixin.py:115} INFO - [2024-01-17 09:37:05,571] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:05,581] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:05,610] {logging_mixin.py:115} INFO - [2024-01-17 09:37:05,609] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:37:05,642] {logging_mixin.py:115} INFO - [2024-01-17 09:37:05,641] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:37:05,658] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.094 seconds
+[2024-01-17 09:37:08,583] {processor.py:153} INFO - Started process (PID=19524) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:08,583] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:37:08,584] {logging_mixin.py:115} INFO - [2024-01-17 09:37:08,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:08,594] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:08,621] {logging_mixin.py:115} INFO - [2024-01-17 09:37:08,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:37:08,657] {logging_mixin.py:115} INFO - [2024-01-17 09:37:08,656] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:37:08,675] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.097 seconds
+[2024-01-17 09:37:10,724] {processor.py:153} INFO - Started process (PID=19528) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:10,725] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:37:10,725] {logging_mixin.py:115} INFO - [2024-01-17 09:37:10,725] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:10,735] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:10,761] {logging_mixin.py:115} INFO - [2024-01-17 09:37:10,761] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:37:10,897] {logging_mixin.py:115} INFO - [2024-01-17 09:37:10,896] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:37:10,956] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.238 seconds
+[2024-01-17 09:37:28,199] {processor.py:153} INFO - Started process (PID=19562) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:28,200] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:37:28,200] {logging_mixin.py:115} INFO - [2024-01-17 09:37:28,200] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:28,209] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:28,302] {logging_mixin.py:115} INFO - [2024-01-17 09:37:28,302] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:37:28,332] {logging_mixin.py:115} INFO - [2024-01-17 09:37:28,332] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:37:28,348] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.154 seconds
+[2024-01-17 09:37:58,837] {processor.py:153} INFO - Started process (PID=19625) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:58,838] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:37:58,839] {logging_mixin.py:115} INFO - [2024-01-17 09:37:58,838] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:58,849] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:37:58,892] {logging_mixin.py:115} INFO - [2024-01-17 09:37:58,892] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:37:58,936] {logging_mixin.py:115} INFO - [2024-01-17 09:37:58,936] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:37:58,951] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.120 seconds
+[2024-01-17 09:38:29,197] {processor.py:153} INFO - Started process (PID=19688) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:29,198] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:38:29,199] {logging_mixin.py:115} INFO - [2024-01-17 09:38:29,199] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:29,208] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:29,248] {logging_mixin.py:115} INFO - [2024-01-17 09:38:29,248] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:38:29,285] {logging_mixin.py:115} INFO - [2024-01-17 09:38:29,285] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:38:29,302] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.111 seconds
+[2024-01-17 09:38:59,483] {processor.py:153} INFO - Started process (PID=19742) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:59,483] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:38:59,484] {logging_mixin.py:115} INFO - [2024-01-17 09:38:59,484] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:59,493] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:38:59,534] {logging_mixin.py:115} INFO - [2024-01-17 09:38:59,533] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:38:59,572] {logging_mixin.py:115} INFO - [2024-01-17 09:38:59,572] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:38:59,585] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.107 seconds
+[2024-01-17 09:39:29,934] {processor.py:153} INFO - Started process (PID=19805) to work on /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:39:29,935] {processor.py:641} INFO - Processing file /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py for tasks to queue
+[2024-01-17 09:39:29,936] {logging_mixin.py:115} INFO - [2024-01-17 09:39:29,936] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:39:29,944] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_Server_Access_Log_Processing']) retrieved from /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py
+[2024-01-17 09:39:29,982] {logging_mixin.py:115} INFO - [2024-01-17 09:39:29,982] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-01-17 09:39:30,014] {logging_mixin.py:115} INFO - [2024-01-17 09:39:30,014] {dag.py:2972} INFO - Setting next_dagrun for ETL_Server_Access_Log_Processing to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-01-17 09:39:30,029] {processor.py:161} INFO - Processing /home/project/airflow/dags/ETL_Server_Access_Log_Processing.py took 0.099 seconds
