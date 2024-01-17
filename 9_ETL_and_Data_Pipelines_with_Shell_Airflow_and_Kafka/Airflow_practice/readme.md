@@ -12,7 +12,7 @@ After completing this lab, you will be able to:
   ## Example CLI Commands:
 
   ### List out all existing DAGs
-  airflow tags list
+  airflow dags list
   ### List out all tasks in a specific DAG (e.g., example_bash_operator)
   airflow tasks list example_bash_operator
   ### Unpause a DAG (e.g., example_bash_operator)
@@ -34,5 +34,21 @@ An Apache Airflow DAG is a python program. It consists of these logical blocks.
   - Task Definitions
   - Task Pipeline
 
-
+## Exercise
+  - Task 1: Create the imports block.
+  - Task 2: Create the DAG Arguments block. You can use the default settings
+  - Task 3: Create the DAG definition block. The DAG should run daily.
+  - Task 4: Create the download task.
+  - Task 5: Create the extract task.
+  - Task 6: Create the transform task.
+  - The transform task must capitalize the visitorid.
+  - Task 7: Create the load task.
+  - Task 8: Create the task pipeline block.
+  - The pipeline block should schedule the task in the order listed below:
+    - download
+    - extract
+    - transform
+    - load
+  - Task 10: Submit the DAG.
+  - Task 11. Verify if the DAG is submitted
 
