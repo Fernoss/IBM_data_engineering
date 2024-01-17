@@ -26,6 +26,13 @@ After completing this lab you will be able to:
   - Explore the anatomy of a DAG.
   - Create a DAG.
   - Submit a DAG.
+## Anatomy of a DAG
+An Apache Airflow DAG is a python program. It consists of these logical blocks.
+  - Imports
+  - DAG Arguments
+  - DAG Definition
+  - Task Definitions
+  - Task Pipeline
 
 
 
