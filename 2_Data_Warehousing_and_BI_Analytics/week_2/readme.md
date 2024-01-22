@@ -19,3 +19,18 @@ view, and applying the CUBE and ROLLUP options. ​You’ll also discover how or
 - Interpret an entity-relationship diagram for a star schema.
 - Write queries using grouping sets, rollups, cubes.
 - Create a materialized query table (MQT).
+
+## mytest.py
+The testing framework provides the following tests:
+- check_for_nulls - this test will check for nulls in a column
+- check_for_min_max - this test will check if the values in a column are with a range of min and max values
+- check_for_valid_values - this test will check for any invalid values in a column
+- check_for_duplicates - this test will check for duplicates in a column
+
+Each test can be authored by mentioning a minimum of 4 parameters.
+
+- testname - The human readable name of the test for reporting purposes
+- test - The actual test name that the testing micro framework provides
+- table - The table name on which the test is to be performed
+- column - The table name on which the test is to be performed
+
