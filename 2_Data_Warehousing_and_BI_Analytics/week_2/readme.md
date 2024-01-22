@@ -1,16 +1,21 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+# General
+In this knowledge-packed module, you’ll explore general and reference enterprise data warehousing architecture. 
+You’ll discover how data cubes relate to star schemas. Then you’ll learn how to slice, dice, drill up or down, 
+roll up, and pivot relative to data cubes. Next, you will examine the capabilities of materialized views, their 
+benefits, and how to apply them. You’ll learn how data organization using facts and dimensions and their related 
+tables organizes information. Then, you will explore how to use normalization to create a snowflake schema as 
+an extension of the star schema. You will learn about populating a data warehouse, incremental data updates, 
+verifying data, querying data, interpreting an entity-relationship diagram for a star schema, creating a materialized 
+view, and applying the CUBE and ROLLUP options. ​You’ll also discover how organizations can benefit by implementing staging.
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+## Learning Objectives
+- Describe a general data warehousing architecture and its component layers and distinguish between general and reference enterprise data warehouse architecture.
+- Describe the relationship of a data cube to a star schema and describe the actions of slice, dice, drill up or down, roll up, and pivot as they relate to data cubes.
+- Describe materialized views and recall two use cases for them.
+- Create a star schema using fact and dimension tables.
+- Build a data warehouse staging area.
+- Verify data quality for a data warehouse.
+- List the main steps for populating a data warehouse​, describe methods for change detection and incremental loading, and manually create and populate tables for a sales star schema.
+- Interpret an entity-relationship diagram for a star schema.
+- Write queries using grouping sets, rollups, cubes.
+- Create a materialized query table (MQT).
