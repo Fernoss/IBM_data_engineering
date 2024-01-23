@@ -1,16 +1,19 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+# General
+MongoDB is a document-oriented NoSQL database. It is easy to access by indexing and supports various data types, including dates and numbers. MongoDB is the most popular NoSQL database today, empowering users to query, manipulate, and find interesting insights from their collected data. It can also be used for a variety of purposes because of the flexibility of storing structured or unstructured data. In this module, you will learn about the characteristics of MongoDB and expand your hands-on working knowledge of MongoDB performing various common tasks including create, read, update, and delete (CRUD) operations, limit and sort records, indexing, and aggregation. You will explore replication and sharding, which are very important concepts in MongoDB. The scale and availability we see with MongoDB is achieved using these two concepts.
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+
+## Learning Objectives
+- Define MongoDB.
+- Identify the key benefits of using MongoDB.
+- List and describe the most common use cases for MongoDB.
+- Create collections on a MongoDB server and perform basic operations on them.
+- Use a mongo shell to connect to a MongoDB database and perform basic CRUD operations.
+- Explain why we need indexes and describe how MongoDB stores them.
+- Use indexes to perform efficient searches and sorts in MongoDB.
+- Explain what the Aggregation Framework is in MongoDB and describe where you can use it.
+- Build aggregation pipelines in MongoDB.
+- Describe what replication is.
+- Explain how sharding helps to scale a database.
+- Define MongoClient.
+- Use MongoClient to interact with MongoDB.
+- Build a Python program to run MongoDB operations.
