@@ -1,16 +1,15 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+## IBM Cloudant
+Database-as-a-service (DBaaS) is a popular solution for hybrid multicloud applications. IBM Cloudant is a fully managed DBaaS built on open source Apache CouchDB. Cloudant aims to be the data layer for all your web and mobile applications. In this module, you will find out how simple developing modern web applications is with Cloudant's rich features and JSON document store.​You will explore the architecture of Cloudant as a NoSQL database. You will gain hands-on experience with Cloudant capabilities and key technologies. And you will learn how to use the Cloudant dashboard to create and manage your database.
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+## Learning Objectives
+- Describe the IBM Cloudant architecture and technologies.
+- Identify the key benefits of IBM Cloudant and its common use cases.
+- Detail the different deployment plans for IBM Cloudant.
+- Perform basic operations on the IBM Cloudant dashboard.
+- Create and work with a Cloudant database.
+- Replicate databases and monitor tasks and instances in the Cloudant dashboard.
+- Insert, query, and modify database documents in the Cloudant dashboard.
+- Describe the HTTP API in IBM Cloudant.
+- Discuss HTTP methods used in curl.
+- Summarize when and how to use text and JSON indexes in IBM Cloudant.
+- Use HTTP API to create and query Cloudant databases.
