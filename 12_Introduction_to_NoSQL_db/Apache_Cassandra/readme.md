@@ -1,16 +1,18 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+# General
+Apache Cassandra is an open source database. It is best used by "always available" type of applications that require a database that is always available, that scales fast in situations of high traffic, and is the right choice when you need scalability and high availability without compromising performance. Apache Cassandra is best used by online services like Netflix, Uber, and Spotify. In this module, you will learn about the characteristics of Apache Cassandra. You will also expand your hands-on working knowledge of Cassandra performing various common tasks including using the CQL shell, keyspace operations, table operations, and CRUD operations
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+## Learning Objectives
+- Describe Cassandra’s architecture and the components of a Cassandra node.
+- Discuss how replication works in Cassandra and explain the scalability of Cassandra.
+- Summarize the logical entities of the Cassandra data model.
+- Define Clustering Keys and describe dynamic tables.
+- Describe the Cassandra Query Language (CQL).
+- Access the Cassandra server with cqlsh and perform basic cqlsh commands.
+- Describe the main data types in CQL.
+- Identify the role of keyspaces in Apache Cassandra.
+- Create, use, and manipulate keyspaces in Cassandra.
+- Discuss the role of Cassandra tables.
+- Create, use, alter, and remove tables in Cassandra.
+- Describe Cassandra’s Write process and its INSERT and UPDATE operations.
+- Explain the Read process in Cassandra clusters and how best to use SELECT statements.
+- Insert, read, update, and delete table data in Cassandra.
