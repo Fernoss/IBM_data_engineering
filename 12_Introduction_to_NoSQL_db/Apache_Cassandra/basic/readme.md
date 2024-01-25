@@ -10,3 +10,15 @@ After completing this lab, you will be able to:
 - Identify the keyspace for the current session with the USE command
 - Describe a keyspace by listing all the tables in it
 
+## hands-on_lab_3 Table Operations
+After completing this lab you will be able to:
+- Create a table in a keyspace by defining a column name and data type
+- Extract the details of a table with the DESCRIBE command
+- Alter a table by adding columns
+- Drop a table by removing it from the keyspace
+
+## hands-on_lab_3 CRUD
+After completing this lab you will be able to:
+- Insert data into a table with an INSERT command
+- Read data from a table by querying from it
+- Update and delete data from the table based on specific criteria
