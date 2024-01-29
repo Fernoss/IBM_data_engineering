@@ -1,16 +1,12 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+# About this Course
+This self-paced IBM course will teach you all about big data! You will become familiar with the characteristics of big data and its application in big data analytics. You will also gain hands-on experience with big data processing tools like Apache Hadoop and Apache Spark.  
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+Bernard Marr defines big data as the digital trace that we are generating in this digital era. You will start the course by understanding what big data is and exploring how insights from big data can be harnessed for a variety of use cases. You’ll also explore how big data uses technologies like parallel processing, scaling, and data parallelism. 
+
+Next, you will learn about Hadoop, an open-source framework that allows for the distributed processing of large data and its ecosystem. You will discover important applications that go hand in hand with Hadoop, like Distributed File System (HDFS), MapReduce, and HBase. You will become familiar with Hive, a data warehouse software that provides an SQL-like interface to efficiently query and manipulate large data sets.  
+
+You’ll then gain insights into Apache Spark, an open-source processing engine that provides users with new ways to store and use big data. In this course, you will discover how to leverage Spark to deliver reliable insights. The course provides an overview of the platform, going into the components that make up Apache Spark.  
+
+You’ll learn about DataFrames and perform basic DataFrame operations and work with SparkSQL. Explore how Spark processes and monitors the requests your application submits and how you can track work using the Spark Application UI.  
+
+This course has several hands-on labs to help you apply and practice the concepts you learn. You will complete Hadoop and Spark labs using various tools and technologies, including Docker, Kubernetes, Python, and Jupyter Notebooks.
