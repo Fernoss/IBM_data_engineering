@@ -1,16 +1,14 @@
-# Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. As a vehicle passes a toll plaza, the vehicle’s data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. Your job is to create a data pipe line that collects the streaming data and loads it into a database.
+# About the course
+Explore the exciting world of machine learning with this IBM course. 
 
-## Objectives
-- In this assignment you will create a streaming data pipe by performing these steps:
-- Start a MySQL Database server.
-- Create a table to hold the toll data.
-- Start the Kafka server.
-- Install the Kafka python driver.
-- Install the MySQL python driver.
-- Create a topic named toll in kafka.
-- Download streaming data generator program.
-- Customize the generator program to steam to toll topic.
-- Download and customise streaming data consumer.
-- Customize the consumer program to write into a MySQL database table.
-- Verify that streamed data is being collected in the database table.
+Start by learning ML fundamentals before unlocking the power of Apache Spark to build and deploy ML models for data engineering applications. Dive into supervised and unsupervised learning techniques and discover the revolutionary possibilities of Generative AI through instructional readings and videos.
+
+Gain hands-on experience with Spark structured streaming, develop an understanding of data engineering and ML pipelines, and become proficient in evaluating ML models using SparkML.  
+
+In practical labs, you'll utilize SparkML for regression, classification, and clustering, enabling you to construct prediction and classification models. Connect to Spark clusters, analyze SparkSQL datasets, perform ETL activities, and create ML models using Spark ML and sci-kit learn. Finally, demonstrate your acquired skills through a final assignment. 
+
+This intermediate course is suitable for aspiring and experienced data engineers, as well as working professionals in data analysis and machine learning. Prior knowledge in Big Data, Hadoop, Spark, Python, and ETL is highly recommended for this course.
+
+## Project
+### Build a Machine Learning Pipeline for Airfoil Noise Prediction
+You are a data engineer at an aeronautics consulting company. Your company prides itself in being able to efficiently design airfoils for use in planes and sports cars. Data scientists in your office need to work with different algorithms and data in different formats. While they are good at Machine Learning, they count on you to be able to do ETL jobs and build ML pipelines. In this project you will use the modified version of the NASA Airfoil Self Noise dataset. You will clean this dataset, by dropping the duplicate rows, and removing the rows with null values. You will create an ML pipeline to create a model that will predict the SoundLevel based on all the other columns. You will evaluate the model and towards the end you will persist the model.
